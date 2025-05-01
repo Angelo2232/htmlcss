@@ -165,6 +165,10 @@ a {
   margin-top: 96px;
 }
 
+.clients .images a {
+  padding: 0 42px;
+  color: orange;
+}
 /* ======== Guides ======== */
 
 .guides {
