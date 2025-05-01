@@ -107,7 +107,7 @@ a {
   font-size: 1.8rem;
   line-height: 1.5;
   letter-spacing: 0.01em;
-  color: #687691;
+  color: #687690;
 }
 
 .hero .title {
@@ -610,6 +610,7 @@ a {
   margin-top: 81px;
 }
 .footer .copyright {
+  margin-left: 80px;
   color: #c2c2c2;
   font-size: 1.4rem;
   font-weight: 400;
